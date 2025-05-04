@@ -4,7 +4,7 @@
   🎮 Esports & Simulation Games Fan<br>
   🔐 Backend & Security Developer in the making<br>
   💻 Passionate about Go & Python<br>
-  📫 Reach me: roman.cyberdev@gmail.com
+  📫 Reach me: roman.cyberdev@gmail.com or @RomanVyshnevyi on TG
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 👀 I’m interested in backend development, esports automation, and cybersecurity  
 - 🌱 I’m currently learning secure API development and microservice architecture in Go  
 - 💞️ I’m looking to collaborate on Go/Python backend projects, especially those related to security or games  
-- 📫 How to reach me: roman.cyberdev@gmail.com  
+- 📫 How to reach me: roman.cyberdev@gmail.com or @RomanVyshnevyi on TG
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I once wrote a script that beat a strategy game on max difficulty 😄
 
